@@ -1,4 +1,5 @@
 ﻿##
+{какой сейчас час}
 var time:=readinteger('Какой сейчас час?');
 assert(time in 0..23);
 case time of
